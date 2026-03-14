@@ -1,0 +1,1 @@
+This repo hosts images used by the enigmaticegos.com website, deployed via GitHub Pages and cached with Cloudflare.
